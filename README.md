@@ -18,7 +18,7 @@ Put watermarks on your photos. Created in Tkinter.
 
 # if the photo is OK, then you can save it. If it is not OK, you can start again.
 
-![watermark-4](https://github.com/HarryPilgrim/watermark-app/assets/76102114/024d15e6-4ab7-441e-a4cb-c227d1b0c80d)
+![watermark-4](https://github.com/HarryPilgrim/watermark-app/assets/76102114/ff27db19-9975-4277-939a-40633476ff29)
 
 
 
